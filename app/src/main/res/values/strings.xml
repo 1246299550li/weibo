@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">微博</string>
+
+    <string name="tab_index">首页</string>
+    <string name="tab_notice">通知</string>
+    <string name="tab_my">我的</string>
+    <string name="action_add">发微博</string>
+
+    <string name="forward">转发</string>
+    <string name="comment">评论</string>
+    <string name="like">赞</string>
+
+    <string name="detail_toolbar">微博正文</string>
+
+
+    <string name="hello_index_fragment">hello_index_fragment</string>
+    <string name="hello_notice_fragment">功能还在完善中!敬请期待</string>
+    <string name="hello_my_fragment">hello_my_fragment</string>
+
+    <string name="test">2019年，新中国迎来70岁生日，决胜全面建成小康社会进入关键之年。这一年，国内外风险挑战明显上升。以习近平同志为核心的党中央带领全党全国人民，坚持稳中求进工作总基调，保持经济社会持续健康发展，“十三五”规划主要指标进度符合预期，全面建成小康社会取得了新的重大进展。中国经济的巨轮无惧风雨、破浪前行。</string>
+    <string name="likeSuccess">点赞成功</string>
+    <string name="liked">已赞</string>
+    <string name="send">发送</string>
+    <string name="commentSuccess">评论成功</string>
+    <string name="write_toolbar">写微博</string>
+    <string name="word">想说点什么</string>
+    <string name="camera">拍摄照片</string>
+    <string name="gallery">从相册中选取</string>
+    <string name="action_write">发送</string>
+    <string name="writeSuccess">发送成功</string>
+    <string name="update">编辑</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="tip_account">请输入账号</string>
+    <string name="tip_password">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_fail">账号不存在或密码错误</string>
+    <string name="register_success">注册成功</string>
+    <string name="register_fail">用户名已存在</string>
+    <string name="update_success">修改成功</string>
+    <string name="nickname">昵称: </string>
+    <string name="intro">签名: </string>
+    <string name="sex">性别: </string>
+</resources>
