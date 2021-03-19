@@ -92,7 +92,6 @@
 ![avatar](https://github.com/1246299550li/weibo/blob/master/png/%E5%9B%BE%E7%89%871.png)
 
 效果图
-![avatar](https://github.com/1246299550li/weibo/blob/master/png/%E5%9B%BE%E7%89%871.png)
 ![avatar](https://github.com/1246299550li/weibo/blob/master/png/%E5%9B%BE%E7%89%872.png)
 ![avatar](https://github.com/1246299550li/weibo/blob/master/png/%E5%9B%BE%E7%89%873.png)
 ![avatar](https://github.com/1246299550li/weibo/blob/master/png/%E5%9B%BE%E7%89%874.png)
